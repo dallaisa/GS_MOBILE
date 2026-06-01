@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "AELA",
+    "slug": "aela-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0A0F"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "br.com.aela.mobile" },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0A0A0F"
+      },
+      "package": "br.com.aela.mobile"
+    },
+    "plugins": [
+      ["expo-image-picker", { "photosPermission": "O AELA usa a galeria para anexar leituras." }]
+    ],
+    "extra": { "apiBaseUrl": "http://localhost:8080" }
+  }
+}
