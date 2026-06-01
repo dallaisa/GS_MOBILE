@@ -24,12 +24,12 @@ ambientes extremos, integrado a API Java (Spring Boot). O sistema compara o oper
     <td align="center"><img src="docs/welcome.png" width="180"/><br/>Welcome</td>
     <td align="center"><img src="docs/signin.png" width="180"/><br/>Sign In</td>
     <td align="center"><img src="docs/dashboard.png" width="180"/><br/>Dashboard</td>
-    <td align="center"><img src="docs/tripulacao.png" width="180"/><br/>Tripulacao</td>
+    <td align="center"><img src="docs/tripulacao.png" width="180"/><br/>Tripulação</td>
   </tr>
   <tr>
     <td align="center"><img src="docs/acompanhamento.png" width="180"/><br/>Acompanhamento</td>
-    <td align="center"><img src="docs/nutricao.png" width="180"/><br/>Nutricao</td>
-    <td align="center"><img src="docs/coracao_detail.png" width="180"/><br/>Coracao Detail</td>
+    <td align="center"><img src="docs/nutricao.png" width="180"/><br/>Nutrição</td>
+    <td align="center"><img src="docs/coracao_detail.png" width="180"/><br/>Coracão Detalhes</td>
     <td align="center"><img src="docs/fitness.png" width="180"/><br/>Fitness</td>
   </tr>
   <tr>
@@ -37,7 +37,6 @@ ambientes extremos, integrado a API Java (Spring Boot). O sistema compara o oper
   </tr>
 </table>
 
-> Salve os prints na pasta `docs/` com os nomes acima para exibir aqui no GitHub.
 
 ---
 
