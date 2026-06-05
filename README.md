@@ -1,5 +1,5 @@
 # AELA — Adaptive Exposome Life Assessment
-### FIAP Global Solution 2025 — Space Connect
+### FIAP Global Solution 2026 — Space Connect
 
 App mobile (React Native + Expo) para acompanhamento biologico de tripulacoes em
 ambientes extremos, integrado a API Java (Spring Boot). O sistema compara o operador
